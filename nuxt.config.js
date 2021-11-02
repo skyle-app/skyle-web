@@ -26,7 +26,8 @@ export default {
       { src: "assets/js/owl-carousel.js" },
       { src: "assets/js/animation.js" },
       { src: "assets/js/imagesloaded.js" },
-      { src: "assets/js/custom.js" }
+      { src: "assets/js/custom.js" },
+      { src: "assets/js/chplugin.js" }
     ]
   },
 
@@ -36,6 +37,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    { src: "~/static/assets/js/chplugin.js", mode: 'client' }
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
