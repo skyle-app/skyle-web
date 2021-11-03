@@ -45,7 +45,7 @@
                       <div class="info-post">
                         <div class="icon">
                           <img src="assets/images/location-icon.png" alt="">
-                          <a href="https://skyle.channel.io">skyle.channel.io</a>
+                          <a href="https://skyle.channel.io" onclick="event.preventDefault();ChannelIO('showMessenger');">skyle.channel.io</a>
                         </div>
                       </div>
                     </div>
