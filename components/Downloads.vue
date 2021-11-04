@@ -47,11 +47,11 @@
               <div class="col-lg-7">
                 <div class="fill-form">
                   <div class="row">
-                    <div class="col-lg-4">
+                    <!--<div class="col-lg-4">
                       <div class="info-post">
                         <a onclick="event.preventDefault();javascript:alert('준비 중입니다.');" href=""><img class="badgee" src="/assets/images/badge/apple_badge.svg" alt=""></a>
                       </div>
-                    </div>
+                    </div>-->
                     <div class="col-lg-4">
                       <div class="info-post">
                         <a onclick="event.preventDefault();javascript:alert('준비 중입니다.');" href=""><img class="badgee" src="/assets/images/badge/google_badge.svg" alt=""></a>
