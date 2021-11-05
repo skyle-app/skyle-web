@@ -9,7 +9,7 @@
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <router-link to="/" class="logo">
-              <img src="assets/images/logo-v3.png" alt="">
+              <img src="/assets/images/logo-v3.png" alt="">
             </router-link>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->

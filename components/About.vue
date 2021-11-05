@@ -8,7 +8,7 @@
             <div class="row">
                 <div class="col-lg-6">
                 <div class="about-left-image  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
-                    <img src="assets/images/about-dec-v3.png" alt="">
+                    <img src="/assets/images/about-dec-v3.png" alt="">
                 </div>
                 </div>
                 <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">

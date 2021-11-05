@@ -17,31 +17,31 @@
                     <div class="menu">
                         <div class="first-thumb active">
                         <div class="thumb">
-                            <span class="icon"><img src="assets/images/service-icon-01.png" alt=""></span>
+                            <span class="icon"><img src="/assets/images/service-icon-01.png" alt=""></span>
                             Apartments
                         </div>
                         </div>
                         <div>
                         <div class="thumb">                 
-                            <span class="icon"><img src="assets/images/service-icon-02.png" alt=""></span>
+                            <span class="icon"><img src="/assets/images/service-icon-02.png" alt=""></span>
                             Food &amp; Life
                         </div>
                         </div>
                         <div>
                         <div class="thumb">                 
-                            <span class="icon"><img src="assets/images/service-icon-03.png" alt=""></span>
+                            <span class="icon"><img src="/assets/images/service-icon-03.png" alt=""></span>
                             Cars
                         </div>
                         </div>
                         <div>
                         <div class="thumb">                 
-                            <span class="icon"><img src="assets/images/service-icon-04.png" alt=""></span>
+                            <span class="icon"><img src="/assets/images/service-icon-04.png" alt=""></span>
                             Shopping
                         </div>
                         </div>
                         <div class="last-thumb">
                         <div class="thumb">                 
-                            <span class="icon"><img src="assets/images/service-icon-01.png" alt=""></span>
+                            <span class="icon"><img src="/assets/images/service-icon-01.png" alt=""></span>
                             Traveling
                         </div>
                         </div>
@@ -65,7 +65,7 @@
                                 </div>
                                 <div class="col-lg-6 align-self-center">
                                 <div class="right-image">
-                                    <img src="assets/images/services-image.jpg" alt="">
+                                    <img src="/assets/images/services-image.jpg" alt="">
                                 </div>
                                 </div>
                             </div>
@@ -88,7 +88,7 @@
                                 </div>
                                 <div class="col-lg-6 align-self-center">
                                 <div class="right-image">
-                                    <img src="assets/images/services-image-02.jpg" alt="">
+                                    <img src="/assets/images/services-image-02.jpg" alt="">
                                 </div>
                                 </div>
                             </div>
@@ -111,7 +111,7 @@
                                 </div>
                                 <div class="col-lg-6 align-self-center">
                                 <div class="right-image">
-                                    <img src="assets/images/services-image-03.jpg" alt="">
+                                    <img src="/assets/images/services-image-03.jpg" alt="">
                                 </div>
                                 </div>
                             </div>
@@ -134,7 +134,7 @@
                                 </div>
                                 <div class="col-lg-6 align-self-center">
                                 <div class="right-image">
-                                    <img src="assets/images/services-image-04.jpg" alt="">
+                                    <img src="/assets/images/services-image-04.jpg" alt="">
                                 </div>
                                 </div>
                             </div>
@@ -157,7 +157,7 @@
                             </div>
                             <div class="col-lg-6 align-self-center">
                               <div class="right-image">
-                                <img src="assets/images/services-image.jpg" alt="">
+                                <img src="/assets/images/services-image.jpg" alt="">
                               </div>
                             </div>
                           </div>

@@ -14,7 +14,7 @@
            <div id="contactt" class="row">
             <!-- <div class="col-lg-12">
                 <div class="contact-dec">
-                  <img src="assets/images/contact-dec-v3.png" alt="">
+                  <img src="/assets/images/contact-dec-v3.png" alt="">
                 </div>
               </div>
               <div class="col-lg-5">
@@ -28,7 +28,7 @@
                     <div class="col-lg-4">
                       <div class="info-post">
                         <div class="icon">
-                          <img src="assets/images/phone-icon.png" alt="">
+                          <img src="/assets/images/phone-icon.png" alt="">
                           <a href="tel:01085910631">010-8591-0631</a>
                           <br>
                           <a href="tel:01000000000">010-0000-0000</a> 
@@ -39,7 +39,7 @@
                     <div class="col-lg-4">
                       <div class="info-post">
                         <div class="icon">
-                          <img src="assets/images/email-icon.png" alt="">
+                          <img src="/assets/images/email-icon.png" alt="">
                           <a href="mailto:me@sskate.me">me@sskate.me</a>
                         </div>
                       </div>
@@ -47,7 +47,7 @@
                     <div class="col-lg-4">
                       <div class="info-post">
                         <div class="icon">
-                          <img src="assets/images/location-icon.png" alt="">
+                          <img src="/assets/images/location-icon.png" alt="">
                           <a href="https://skyle.channel.io" onclick="event.preventDefault();ChannelIO('showMessenger');">skyle.channel.io</a>
                         </div>
                       </div>

@@ -19,7 +19,7 @@
               <a href="#">
                 <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio-01.jpg" alt="">
+                  <img src="/assets/images/portfolio-01.jpg" alt="">
                 </div>
                 <div class="down-content">
                   <h4>Website Builder</h4>
@@ -32,7 +32,7 @@
               <a href="#">
                 <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio-01.jpg" alt="">
+                  <img src="/assets/images/portfolio-01.jpg" alt="">
                 </div>
                 <div class="down-content">
                   <h4>Website Builder</h4>
@@ -45,7 +45,7 @@
               <a href="#">
                 <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio-02.jpg" alt="">
+                  <img src="/assets/images/portfolio-02.jpg" alt="">
                 </div>
                 <div class="down-content">
                   <h4>Website Builder</h4>
@@ -58,7 +58,7 @@
               <a href="#">
                 <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio-03.jpg" alt="">
+                  <img src="/assets/images/portfolio-03.jpg" alt="">
                 </div>
                 <div class="down-content">
                   <h4>Website Builder</h4>
@@ -71,7 +71,7 @@
               <a href="#">
                 <div class="portfolio-item">
                 <div class="thumb">
-                  <img src="assets/images/portfolio-04.jpg" alt="">
+                  <img src="/assets/images/portfolio-04.jpg" alt="">
                 </div>
                 <div class="down-content">
                   <h4>Website Builder</h4>

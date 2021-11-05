@@ -16,7 +16,7 @@
                     <div class="col-lg-12">
                         <div class="border-first-button scroll-to-section">
                         <a href="#download">Downloads</a>&nbsp;&nbsp;
-                        <a href="https://github.com/">Source Code</a>
+                        <a href="https://github.com/skyle-app">Source Code</a>
                         </div>
                     </div>
                     </div>
@@ -24,7 +24,7 @@
                 </div>
                 <div class="col-lg-6">
                 <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                    <img src="assets/images/slider-dec-v3.png" alt="">
+                    <img src="/assets/images/slider-dec-v3.png" alt="">
                 </div>
                 </div>
             </div>
