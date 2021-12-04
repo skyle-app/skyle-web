@@ -69,9 +69,7 @@
                 <div class="fill-form">
                   <div class="row">
                     <div class="col-lg-4">
-                      <div class="info-post">
-                        <h3><a class="badgee2" href="http://prereg.skyle.kr">사전예약 하기 (PC)</a></h3>
-                      </div>
+                        <h3><a class="badgee2" href="http://prereg.skyle.kr">사전예약 하기</a></h3>
                     </div>
                   </div>
                 </div>
