@@ -62,7 +62,8 @@
               </div>
             </div>
           </form>-->
-          <div id="prereg" class="row">
+          <form id="downloads" action="" method="post">
+          <div id="contactt22" class="row">
               <h1>사전예약</h1>
               <div class="col-lg-7">
                 <div class="fill-form">
@@ -79,7 +80,7 @@
         </div>
       </div>
     </div>
-    
+    </form>
   </div>
 </template>
 
