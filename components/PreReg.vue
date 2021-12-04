@@ -16,7 +16,7 @@
                 <div class="fill-form">
                   <div class="row">
                       <div class="info-post">
-                        <a class="badgee2" href="http://prereg.skyle.kr"<h1>사전예약 바로가기</h1></a>
+                        <a class="badgee2" href="http://prereg.skyle.kr"><h1>사전예약 바로가기</h1></a>
                       </div>
                   </div>
                 </div>
