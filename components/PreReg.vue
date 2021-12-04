@@ -5,7 +5,7 @@
         <div class="col-lg-6 offset-lg-3">
           <div class="section-heading wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
             <h6>사전 예약</h6>
-            <h4 class="downcccc"><em>지금 사전예약 하고 Skyle의 베타테스터가 되세요.</h4>
+            <h4 class="downcccc"><em>지금 사전예약 하고 Skyle의 베타테스터가 되세요.</em></h4>
             <div class="line-dec"></div>
           </div>
         </div>
@@ -23,6 +23,7 @@
               </div>
            </div>
           </form>
+      </div>
       </div>
  </div>
 </template>
