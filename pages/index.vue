@@ -10,7 +10,8 @@
         <!-- <Quote /> -->
         <!-- <Portfolio /> -->  
         <!-- <Blog /> -->
-        <Downloads />
+        <!-- <Downloads /> --> <!-- 추후 오픈될 컴포넌트임 -->
+        <PreReg />
         <Contact />
         
         <Footer />
