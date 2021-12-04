@@ -10,7 +10,7 @@
           </div>
         </div>
         <div class="col-lg-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
-          <form id="downloads" action="" method="post">
+          <!--<form id="downloads" action="" method="post">
            <div id="contactt22" class="row">
               <h1>보호자용</h1>
               <div class="col-lg-7">
@@ -66,10 +66,25 @@
                 </div>
               </div>
             </div>
-          </form>
+          </form>-->
+          <div id="prereg" class="row">
+              <h1>사전예약</h1>
+              <div class="col-lg-7">
+                <div class="fill-form">
+                  <div class="row">
+                    <div class="col-lg-4">
+                      <div class="info-post">
+                        <h3><a class="badgee2" href="http://prereg.skyle.kr">사전예약 하기 (PC)</a></h3>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+           </div>
         </div>
       </div>
     </div>
+    
   </div>
 </template>
 
