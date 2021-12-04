@@ -15,7 +15,8 @@
                     </div>
                     <div class="col-lg-12">
                         <div class="border-first-button scroll-to-section">
-                        <a href="#download">Downloads</a>&nbsp;&nbsp;
+                        <!--<a href="#download">Downloads</a>&nbsp;&nbsp;-->
+                        <a href="#download">사전 예약</a>&nbsp;&nbsp;
                         <a href="https://github.com/skyle-app">Source Code</a>
                         </div>
                     </div>
