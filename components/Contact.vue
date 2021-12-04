@@ -29,9 +29,9 @@
                       <div class="info-post">
                         <div class="icon">
                           <img src="/assets/images/phone-icon.png" alt="">
-                          <a href="tel:01085910631">010-8591-0631</a>
+                          <a href="tel:01094649924">010-9464-9924</a>
                           <br>
-                          <a href="tel:01000000000">010-0000-0000</a> 
+                          <a href="tel:01085910631">010-8591-0631</a> 
                           <br/>
                         </div>
                       </div>
