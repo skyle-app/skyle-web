@@ -16,7 +16,7 @@
                 <div class="fill-form">
                   <div class="row">
                       <div class="info-post">
-                        <a class="badgee2" href="http://prereg.skyle.kr"><h1>사전예약 바로가기</h1></a>
+                        <a class="badgee" href="http://prereg.skyle.kr"><h1>사전예약 바로가기</h1></a>
                       </div>
                   </div>
                 </div>
@@ -33,12 +33,12 @@
 .row#contactt22,.row#contactt2 {display: flex; justify-content: center; align-items: center;}
 .downcccc {font-size: 28px;}
 img.badgee {height: 10vh;}
-a.badgee2 {display: block;}
+a.badgee {display: block;}
 .row h1 {margin-top:50px;}
 
 @media (max-width: 992px) {
   img.badgee {height: auto !important;}
-  a.badgee2 {display: none !important;}
+  a.badgee {display: none !important;}
 }
 
 .fill-form {
