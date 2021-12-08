@@ -38,7 +38,7 @@ a.badgee {display: block;}
 
 @media (max-width: 992px) {
   img.badgee {height: auto !important;}
-  a.badgee {display: none !important;}
+  a.badgee2 {display: none !important;}
 }
 
 .fill-form {
