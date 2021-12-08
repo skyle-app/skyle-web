@@ -42,6 +42,6 @@ a.badgee {display: block;}
 }
 
 .fill-form {
-  padding: 80px 60px 80px 60px;
+  padding: 80px 40px 80px 40px;
 }
 </style>
