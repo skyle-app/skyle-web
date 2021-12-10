@@ -1,6 +1,6 @@
 <template>
     <div>
-        <Preloader />
+        <!-- <Preloader /> -->
         <!-- <PreHeader /> -->
         <Header />
 
